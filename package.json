@@ -4,10 +4,10 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1",
-    "mysql2": "^2.2.5",
     "console.table": "^0.10.0",
+    "express": "^4.17.1",
     "inquirer": "^7.0.1",
+    "mysql2": "^2.3.3"
   },
   "scripts": {
     "test": "jest",
@@ -23,6 +23,4 @@
     "url": "https://github.com/Tthompson8416/Employee-Tracker/issues"
   },
   "homepage": "https://github.com/Tthompson8416/Employee-Tracker#readme"
-   
 }
-
